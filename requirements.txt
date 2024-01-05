@@ -1,0 +1,5 @@
+PySocks==1.7.1
+aiohttp
+aiohttp_socks
+
+# python3 -m pip install -r requirements.txt
