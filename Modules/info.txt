@@ -1,0 +1,4 @@
+This folder contains functioning python modules for import use only. 
+It is safe to assume that these will always work.
+NOTE:
+	All of these modules are pyqt apps and contain GUI interfaces for visual responses
